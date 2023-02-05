@@ -6,4 +6,4 @@
 -- specs:
 -- CPU: AMD Athlon 3000G
 -- GPU: Radeon Vega Graphics #
--- RAM: 4 GB
+-- RAM: 8 GB
